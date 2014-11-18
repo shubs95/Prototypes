@@ -18,7 +18,7 @@
         android:id="@+id/bAdd"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        android:layout_alignParentRight="true"
+
         android:layout_centerVertical="true"
         android:src="@drawable/plus"
         style="@android:style/Widget.Holo.ActionButton"/>
